@@ -40,21 +40,27 @@ Quality Assurance has just 1 person
 
 Departments like Finance, HR, Legal, Customer Support each have 3 employees
 
+
+<img width="264" height="473" alt="image" src="https://github.com/user-attachments/assets/fa02245b-5e97-4d2b-be23-88bf750421c9" />
+
+
 ## 3. Comparing Salary and Department (Scatter Plot)
 
 I combined the salary and department data using a scatter plot to see who earns what in each department.
 
 2 Important Discoveries:
 
-## Big Outlier:
-The highest salary ($659,321) belongs to someone in HR. This one person earns way more than others and is affecting the average salary a lot.
+Big Outlier:
+The highest salary (R659,321) belongs to someone in HR. This one person earns way more than others and is affecting the average salary a lot.
+
+
 
 ## Salary Differences by Department:
 
-Legal: 3 employees, all making around $350,000 — very tightly grouped.
+Legal: 3 employees, all making around R350,000
 
-Quality Assurance: Only 1 employee, but they make about $550,000.
+Quality Assurance: Only 1 employee, but they make about R550,000.
 
-IT: People earn between $200,000–$500,000 — the widest range.
+IT: People earn between R200,000–R500,000 — the widest range.
 
-Operations & Customer Support: These employees earn the least (mostly under $200,000).
+Operations & Customer Support: These employees earn the least (mostly under R200,000).
