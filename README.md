@@ -53,8 +53,6 @@ I combined the salary and department data using a scatter plot to see who earns 
 Big Outlier:
 The highest salary (R659,321) belongs to someone in HR. This one person earns way more than others and is affecting the average salary a lot.
 
-
-
 ## Salary Differences by Department:
 
 Legal: 3 employees, all making around R350,000
@@ -64,3 +62,6 @@ Quality Assurance: Only 1 employee, but they make about R550,000.
 IT: People earn between R200,000–R500,000 — the widest range.
 
 Operations & Customer Support: These employees earn the least (mostly under R200,000).
+
+<img width="806" height="516" alt="image" src="https://github.com/user-attachments/assets/e459bc72-3cc1-4282-a50b-0ddd855489aa" />
+
