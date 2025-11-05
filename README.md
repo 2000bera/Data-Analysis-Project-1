@@ -35,7 +35,10 @@ Standard Deviation: R141,026.85 (shows salaries are very spread out)
 <img width="323" height="327" alt="image" src="https://github.com/user-attachments/assets/c200e7aa-47df-4653-b935-3440a0aac6f8" />
 
 
-The average is higher than the median because a few people have very high salaries — so the dataset is “right-skewed” (more low salaries and some very high ones). I confirmed this with a histogram and box plot.
+The average is higher than the median because a few people have very high salaries — so the dataset is “right-skewed” (more low salaries and some very high ones). I confirmed this with box plot.
+
+<img width="834" height="536" alt="image" src="https://github.com/user-attachments/assets/bda08a3d-f40a-46ec-bdb8-350549aabafc" />
+
 
 ## 2. Employee Count by Department
 
