@@ -2,7 +2,7 @@
 
 ## 🔍 Project Summary
 
-In this project, I analyzed a small dataset of 26 employees to explore how their annual salaries relate to their departments. The main goal was to see how salaries are spread out in the company, spot any unusual values (outliers), and find out which departments pay more or less.
+In this project, I analyzed a small dataset of 26 employees (**DUMMY DATA**) to explore how their annual salaries relate to their departments. The main goal was to see how salaries are spread out in the company, spot any unusual values (outliers), and find out which departments pay more or less.
 
 ## 🛠 Tools used
 - Python
