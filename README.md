@@ -12,15 +12,19 @@ I started by looking at all the salaries to understand the company’s overall p
 
 Important numbers:
 
-Average (Mean) Salary: $288,595.46
+Average (Mean) Salary: R288,595.46
 
-Middle (Median) Salary: $279,988.50
+Middle (Median) Salary: R279,988.50
 
-Lowest Salary: $106,781.00
+Lowest Salary: R106,781.00
 
-Highest Salary: $659,321.00
+Highest Salary: R659,321.00
 
-Standard Deviation: $141,026.85 (shows salaries are very spread out)
+Standard Deviation: R141,026.85 (shows salaries are very spread out)
+
+
+<img width="323" height="327" alt="image" src="https://github.com/user-attachments/assets/c200e7aa-47df-4653-b935-3440a0aac6f8" />
+
 
 The average is higher than the median because a few people have very high salaries — so the dataset is “right-skewed” (more low salaries and some very high ones). I confirmed this with a histogram and box plot.
 
